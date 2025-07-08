@@ -2,7 +2,7 @@
 
  - 🔗 [LinkedIn](https://www.linkedin.com/in/alisala-mwamba-aaba67250/) - 🌍 [Website](https://alisalamwamba.dev)
 
-##🙅ABOUT ME
+🙅ABOUT ME
 -------------------------------                                   
 Software engineering student at Iowa State University,
 passionate about building systems that are fast, reliable,
