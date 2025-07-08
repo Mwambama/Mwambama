@@ -6,18 +6,16 @@
 - 🛠 **`broker-dl`** – a Kafka-based file sync system for reliable file transfers under network failure conditions
 - 💡 **MediBridge** (coming soon) – a TypeScript app that turns medical notes into structured data summaries.
 
-## 🎯 Goals
-
-- Build robust systems that solve real problems
-- Learn more about embedded systems, aerospace software, and distributed architectures
-- Contribute to open source and collaborate with engineers around the world
-
 ##🙅ABOUT ME
 -------------------------------                                     
 software engineering student at Iowa State University,
 passionate about building systems that are fast, reliable, and make a real-world impact. 
 Reach out to me @ to chat!
+## 🎯 Goals
 
+- Build robust systems that solve real problems
+- Learn more about embedded systems, aerospace software, and distributed architectures
+- Contribute to open source and collaborate with engineers around the world
 
 
 ---
