@@ -1,5 +1,6 @@
 ##  👋 Hey! I'm Alisala
 
+   - 🔗 [LinkedIn](https://www.linkedin.com/in/alisala-mwamba-aaba67250/) - 🌍 [Website](https://alisalamwamba.dev)
 ### 🚀 What I'm Working On
 
 - 🛠 **`broker-dl`** – a Kafka-based file sync system for reliable file transfers under network failure conditions
@@ -10,7 +11,8 @@
 - Build robust systems that solve real problems
 - Learn more about embedded systems, aerospace software, and distributed architectures
 - Contribute to open source and collaborate with engineers around the world
-  ## About ME
+
+##🙅ABOUT ME
 -------------------------------                                     
 software engineering student at Iowa State University,
 passionate about building systems that are fast, reliable, and make a real-world impact. 
