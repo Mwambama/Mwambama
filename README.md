@@ -1,6 +1,6 @@
 ##  👋 Hey! I'm Alisala
 
-    -🔗[resume](file:///C:/Users/TechGift%20Foundation/Downloads/Alisala-Mwamba-Resumes.pdf)- 🔗 [LinkedIn](https://www.linkedin.com/in/alisala-mwamba-aaba67250/) - 🌍 [Website](https://alisalamwamba.dev)
+ - 🔗 [LinkedIn](https://www.linkedin.com/in/alisala-mwamba-aaba67250/) - 🌍 [Website](https://alisalamwamba.dev)
 ### 🚀 What I'm Working On
 
 - 🛠 **`broker-dl`** – a Kafka-based file sync system for reliable file transfers under network failure conditions
