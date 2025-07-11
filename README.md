@@ -1,6 +1,6 @@
 ## 👋 Hey! I'm Alisala
 -----------------------------
- - 🔗 [LinkedIn](https://www.linkedin.com/in/alisala-mwamba-aaba67250/) - 🌍 [Website](https://alisalamwamba.dev) deployed soon...
+ - 🔗 [LinkedIn](https://www.linkedin.com/in/alisala-mwamba-aaba67250/) - 🌍 [Website](https://alisalamwamba.dev) deploying soon...
 
 🙅ABOUT ME
 -----------------------------                               
